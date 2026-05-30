@@ -5,7 +5,7 @@ A conceptual guide to **MMA-TP**, a published AI tutoring protocol for structuri
 **Paper:** [Modular Multi-State AI Teaching Protocol (MMA-TP)](https://doi.org/10.54254/2755-2721/2026.CH32181)  
 **Authors:** Ian Gorrell and Ethan Jordan
 
-![MMA-TP overview diagram](images/mma-tp-overview.png)
+![MMA-TP overview diagram](mma-tp-overview.png)
 
 *Figure: the same structured JSON specification can produce different tutoring behavior when paired with learner-specific engineered prompts.*
 
